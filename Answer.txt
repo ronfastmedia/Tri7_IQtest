@@ -1,0 +1,19 @@
+Point 1:
+Answer: 2
+Reason: Counter Clockwise Pattern
+
+Point 2:
+Answer: 2
+Reason: Small to Biggest
+
+Point 3:
+Answer: 3
+Reason: Among choices this is the box that is same position on the merge object in 3rd column
+
+Point 4:
+Answer: 4
+Reason: 1st column vertical line position bottom, 2nd column line position center, 3rd column line position top and use same circle and box object but reverse position
+
+Point 5:
+Answer: 3
+Reason: All circle in 3rd column is on top position and the white box should remain position same on 3rd row 1st column
